@@ -9,6 +9,7 @@
 Начально изображение 
 
 ![image2](https://github.com/cuber201/opencv_3/assets/72391128/3763e861-d6de-4a33-bc8c-2ca682995a12)
+
 Обработанное изображение
 ![image](https://github.com/cuber201/opencv_3/assets/72391128/1250e454-772e-4931-b224-7b11b540f451)
 
